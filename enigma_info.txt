@@ -1,0 +1,29 @@
+Source(s) and reference(s):
+https://www.codingame.com/ide/puzzle/encryptiondecryption-of-enigma-machine
+https://en.wikipedia.org/wiki/Enigma_machine
+-------------------------------------
+
+Info
+-------------------------------------
+The program encrypts and decrypts short messages through Enigma machine
+
+
+Example input file (from codinGame)
+-------------------------------------
+At the moment, only small letters work.
+
+1-Order to encode or decode. At the moment, only encoding works!
+2-The shift. No restrictions. 
+3-First rotor i.e. alphabet randomized
+4-Second rotor
+5-Third and final rotor
+6-Message to be encoced/decoded. All together
+
+1-encode
+2-4
+3-bdfhjlcprtxvznyeiwgakmusqo
+4-ajdksiruxblhwtmcqgznpyfvoe
+5-ekmflgdqvzntowyhxuspaibrcj
+6-aaa
+
+
