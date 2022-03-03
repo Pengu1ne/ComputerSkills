@@ -1,5 +1,4 @@
-----------------------------------------------------------------------------------
-Files in this folder are my own exercises to try different programming techniques and languages and/or what I use and want them to be safe. Usually, I get an idea somewhere else* and start working on that idea. In general, I plan and write the programs here without an existing template. 
+Files in this folder are my own exercises to try different programming techniques and languages and/or what I use and want them to be safe. Usually, I get an idea somewhere else and start working on that idea. In general, I plan and write the programs here without an existing template. 
 ----------------------------------------------------------------------------------
 
 --------------------------------------
@@ -15,9 +14,9 @@ nameofprogram_example.txt, nameofprogram_example.csv, etc.
 
 Because these are "pet projects" and for fun and growth, I am open for feedback and ideas. So please, leave a comment, send me mail or a message on social media. Contact info on my account page.
 
-*I add reference to the source if applicable.
+I add reference to the source if applicable.
 
-WIP:
+WIP / ideas:
 -biljard ball(s) on a table -- idea is to use this model as a basis to model the movement (and interaction) of electrons
 -hydrogen atom -- idea is to try out how to program single point energy program
 
